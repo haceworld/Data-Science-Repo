@@ -1,2 +1,2 @@
 # Data-Science-Repo
-All about Data Science and Data Analysis
+All about Data Science and Data Analytics
